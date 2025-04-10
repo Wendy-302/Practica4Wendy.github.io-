@@ -46,7 +46,7 @@ Estrella Wendy Ocadiz Zotea
 <body>
 
     <header>
-        <h1>Bienvenido a Mi Página Web</h1>
+        <h1>MI HUESO SAFADO</h1>
         <p>Esta es una página hecha con HTML5</p>
     </header>
 
